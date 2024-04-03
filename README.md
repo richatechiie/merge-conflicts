@@ -1,2 +1,2 @@
 # merge - conflicts
-content added by dev-2 in newbranch
+content added by dev-3 in newbranch
